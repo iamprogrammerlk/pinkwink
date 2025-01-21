@@ -15,3 +15,7 @@
 > [!IMPORTANT]
 >
 > Always keep the latest changes on top of the log file.
+
+# pinkwink_v1.0.0 (2025-01-21)
+
+- First release of Pink Wink theme.
